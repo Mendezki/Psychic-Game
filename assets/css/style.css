@@ -1,0 +1,10 @@
+body {
+    background-image: url(../images/footer_lodyas.png);
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    font-size: 30px;
+    padding: 20px;
+}
